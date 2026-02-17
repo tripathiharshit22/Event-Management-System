@@ -271,5 +271,5 @@ http://localhost:5000
 # 👨‍💻 Developed By
 
 Harshit Mani Tripathi  
-B.Tech – Computer Science Engineering  
-Full-Stack MERN Developer  
+
+
